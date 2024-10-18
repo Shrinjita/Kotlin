@@ -87,19 +87,3 @@ kotlin classes.kt
 7. Null Safety (strCust.kt)
 This file explains Kotlin's null safety features, including safe calls and the !! operator to handle nullable types.
 
-To run:
-
-bash
-Copy code
-kotlin strCust.kt
-File Structure
-plaintext
-Copy code
-.
-├── customers.kt       # Control flow example
-├── dtype.kt           # Demonstrating basic types in Kotlin
-├── HelloWorld.kt      # Basic Hello World program
-├── mathOp.kt          # Mathematical operations and functions
-├── README.md          # Repository instructions
-├── strCust.kt         # Null safety and string manipulation
-└── requirements.txt   # Environment setup instructions
