@@ -1,4 +1,4 @@
-This repository contains Kotlin practice files, covering various basic and advanced features of the Kotlin programming language. Each file demonstrates core concepts like control flow, collections, functions, and more. This `README` will guide you through setting up the environment, installing dependencies, and running the Kotlin files included in the repository.
+This repository contains Kotlin practice files, covering various basic and advanced features of the Kotlin programming language. Each file demonstrates core concepts like control flow, collections, functions, and more.
 
 ---
 
